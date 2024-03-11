@@ -18,7 +18,7 @@ Gemini is your go-to AI companion for uncovering the nutritional secrets hidden 
    - Describe the food items in the image and click the "Unravel the Mysteries!" button to let Gemini work its magic.
 
 4. **Accessing the Application**:
-   - Access the Gemini application [here](https://your-application-url.com).
+   - Access the Gemini application [here](https://gemini-nutritionist.streamlit.app/).
 
 ## Credits
 - Gemini AI functionality is powered by [Google Generative AI](https://ai.google.dev/?gad_source=1&gclid=Cj0KCQiArrCvBhCNARIsAOkAGcXQJ9rx3MpmC9k7Cw8Oz7qx56ChGkivHZ2yLLsyEfm12ajjlr75NRcaAno4EALw_wcB).
