@@ -45,7 +45,7 @@ Gemini is your mystical companion for deciphering SQL queries effortlessly. With
    - Enter your magical SQL question and click "Summon the Answer!" to witness the oracle's response.
 
 4. **Accessing the Application**:
-   - Access the Gemini application [here](https://your-application-url.com).
+   - Access the Gemini application [here](https://gemini-sql-whisperer.streamlit.app/).
 
 ---
 
@@ -69,7 +69,7 @@ The Jovial Q&A Chatbot is your go-to companion for engaging in fun and witty con
    - Enter your questions in the text field and click "Ask Away!" to receive witty responses from the chatbot.
 
 4. **Accessing the Application**:
-   - Access the Jovial Q&A Chatbot application [here](https://your-application-url.com).
+   - Access the Jovial Q&A Chatbot application [here](https://jovial-question-answer-chatbot.streamlit.app/).
 
 ## Credits
 - The Jovial Q&A Chatbot is powered by OpenAI's GPT-3.5/4 language model.
@@ -118,7 +118,7 @@ To run this app locally, you'll need Python installed on your machine. Follow th
    streamlit run app.py
    ```
 
-4. Access the app in your web browser at the provided local URL.
+ 4. Access the Test Summarization application [here](https://text-summarization-chatbot.streamlit.app/)
 
 ---
 
@@ -166,4 +166,5 @@ To run this app locally, follow these simple steps:
    streamlit run app.py
    ```
 
-4. Access the app in your web browser at the provided local URL.
+4. Access the app in your web browser [here](https://pdf-assistant.streamlit.app/)
+
